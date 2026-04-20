@@ -3,7 +3,8 @@
 ---
 
 # NumPy Hands-On Tutorial
-# Chapter 1: Introduction
+
+## Chapter 1: Introduction
 
 NumPy is one of the most important libraries in the Python scientific computing ecosystem. It forms the backbone of numerical computation in Python and is widely used for working with arrays, mathematical operations, and large datasets.
 
