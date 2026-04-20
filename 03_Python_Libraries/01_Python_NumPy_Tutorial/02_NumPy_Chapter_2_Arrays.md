@@ -3,7 +3,7 @@
 ---
 
 # NumPy Hands-On Tutorial
-# NumPy Chapter 2: Arrays
+## Chapter 2: Arrays
 
 The NumPy array (`ndarray`) is the core data structure of the NumPy library. Almost everything in NumPy revolves around creating, manipulating, and performing computations on arrays.
 
