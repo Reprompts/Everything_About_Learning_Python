@@ -1,4 +1,4 @@
-````md
+
 # Python Numpy: Part 11 (Array Operations)
 
 NumPy arrays are designed to perform mathematical operations efficiently on entire datasets. Unlike Python lists, NumPy allows **vectorized operations**, meaning operations are applied to all elements of an array simultaneously.
