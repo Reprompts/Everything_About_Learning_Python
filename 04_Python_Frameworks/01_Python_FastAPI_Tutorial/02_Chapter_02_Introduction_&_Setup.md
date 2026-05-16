@@ -1,9 +1,9 @@
 
-# FastAPI: Part 2 — Introduction & Setup
+# FastAPI Hands-On Tutotrial
 
 ---
 
-## FastAPI Introduction & Setup
+## Chapter 2: FastAPI Introduction & Setup
 
 ## What is FastAPI?
 
