@@ -1,5 +1,5 @@
 # FastAPI Hands-On Tutorial
-## Chapter 12: 
+## Chapter 12: API Documentation
 
 # API Documentation
 
